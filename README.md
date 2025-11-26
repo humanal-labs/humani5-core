@@ -29,5 +29,4 @@ Neden “Core”?
 
 Lisans
 
-Şimdilik: Reserved — HUMAN-I5 Internal Standards
-(İleride açık/kapalı lisans modeli netleşecek.)
+ Reserved — HUMAN-I5 Internal Standards
