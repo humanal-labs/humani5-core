@@ -1,32 +1,41 @@
-# humani5-core
-HUMAN I5 — CORE
+# Humani5 — Human-Centered Intelligence Framework
 
-Signal • Identity • Integrity
+Humani5, insan sezgisini, teknik zekâyı ve sistem tasarımını tek bir çekirdek modelde birleştiren deneysel bir teknoloji yaklaşımıdır.
 
-humanI5-core, HUMAN-I5 altyapısının çekirdek katmanıdır.
-Bu depo; sinyal analizi, kimlik bütünlüğü ve düşük gürültülü karar sistemleri için kullanılan temel yapı taşlarını içerir.
+Bu repo:
+- Humani5 web kimliğini
+- çekirdek dokümantasyonu
+- sistem tasarımını
+- ileride eklenecek AI modüllerini
 
-Amaç
-	•	Gürültüsüz veri işleme prensiplerini standartlaştırmak
-	•	İnsan × Teknoloji modelinin çekirdek fonksiyonlarını tanımlamak
-	•	Üst katmanların (systems, strategy, human-layer) üzerine oturacağı iskeleti oluşturmak
+içeren **temel laboratuvar deposudur**.
 
-Neden “Core”?
+## 📌 Yapı
+- `index.html` → Ana sayfa
+- `systems.html` → Humani5 System Map
+- `contact.html` → İletişim
+- `styles.css` → Tüm stil dosyaları
 
-Çünkü tüm HUMAN-I5 yapısı buradaki çekirdek prensiplerden doğacak:
-	•	Sessizlikten sinyal çıkarma
-	•	Kimlik bütünlüğünü koruma
-	•	Sistemlerde tutarlılık sağlama
-	•	Gereksiz yükleri ayıklama
-	•	Saf fonksiyon → saf çıktı mantığı
+## 🎯 Amaç
+Bu proje, insan + teknoloji birleşiminin sade, anlaşılır ve *insanı merkeze alan* bir mimarisini kurmayı hedefler.
 
-İlerleyen sürümlerde burada olacak:
-	•	core-signals/ — sinyal işleme prensipleri
-	•	core-identity/ — kimlik bütünlüğü kuralları
-	•	core-integrity/ — karar tutarlılık modelleri
-	•	core-guides/ — geliştirme dokümanları
-	•	core-api/ — temel API tanımları (gelecek)
+## 🚀 Yol Haritası (v0.1 → v1.0)
+- Web çekirdeği (tamamlandı)
+- Repo düzeni (tamamlandı)
+- GitHub Pages (aktif)
+- Humani5 Labs entegrasyonu
+- AI Core taslağı
+- Genişletilmiş sistem sayfaları
+- İlk prototip (v0.2)
 
-Lisans
+## 🧩 Felsefe
+Sessizlik → Odak  
+Netlik → Sistem  
+Sadelik → Güç  
 
- Reserved — HUMAN-I5 Internal Standards
+Humani5, gereksiz gürültü üretmez.  
+Yalnızca **net olanı** büyütür.
+
+---
+
+© 2025 Humani5
